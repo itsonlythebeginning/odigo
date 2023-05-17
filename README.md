@@ -4,7 +4,7 @@ Try it here: https://itsonlythebeginning.github.io/odigo/
 
 Макет: https://www.figma.com/file/PpXCtmrfHxfjkvNNUyaEzv/OJJO?node-id=0%3A1
 
-Верстка макета "Odigo" (Discover Amazing places in Japan) с использованием HTML и CSS
+Верстка макета "Odigo" с использованием HTML и CSS
 
 Нейминг по методологии БЭМ
 
