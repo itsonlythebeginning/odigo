@@ -1,6 +1,6 @@
 # odigo
 
-Try it here: 
+Try it here: https://itsonlythebeginning.github.io/odigo/
 
 Макет: https://www.figma.com/file/PpXCtmrfHxfjkvNNUyaEzv/OJJO?node-id=0%3A1
 
